@@ -1,0 +1,1 @@
+This repository contains a simple C++ program that demonstrates a division by zero error. The program attempts to divide an integer by zero, which results in undefined behavior. The solution demonstrates how to handle potential division by zero errors using a simple if condition.
